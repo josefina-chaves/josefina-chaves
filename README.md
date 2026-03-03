@@ -43,13 +43,6 @@ Soy una profesional apasionada por la intersección entre la tecnología y la co
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=josefina2609&show_icons=true&theme=tokyonight" alt="Estadísticas de Josefina" />
-</p>
-
----
-
 ## 📫 Contacto
 - 📍 Argentina
 - 📧 **Email:** [chavesjosefina666@gmail.com](mailto:chavesjosefina666@gmail.com)
