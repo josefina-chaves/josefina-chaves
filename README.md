@@ -5,12 +5,13 @@
 ---
 
 ## 👩‍💻 Sobre mí
-Soy una profesional apasionada por la intersección entre la tecnología y la comunicación humana. Actualmente me desempeño como **Coordinadora de Sistemas Internos** en la Facultad de Ciencias Económicas de la **Universidad Adventista del Plata**. Combino mi formación técnica con mi carrera en Comunicación para crear soluciones digitales que no solo funcionen, sino que también comuniquen eficazmente.
+Soy una profesional apasionada por la intersección entre la tecnología y la comunicación humana. Actualmente me desempeño como **Coordinadora de Sistemas Internos** en la Facultad de Ciencias Económicas de la **Universidad Adventista del Plata**. Combino mi formación técnica con Comunicación para crear soluciones digitales que no solo funcionen, sino que también comuniquen eficazmente.
 
 - 🔭 **Proyectos actuales:** Desarrollo de un sistema de gestión a medida utilizando **Python**.
-- 🎨 **En proceso:** Construyendo mi portfolio personal y un sitio de bodas con **Next.js**, **Tailwind CSS** y **Framer Motion**.
-- 📻 **Más allá del código:** Formo parte del equipo del programa radial adventista **"Dios con Nosotros"**.
-- ✍️ **Investigación:** Me interesa la alfabetización digital, especialmente el rol de la IA en la educación de adultos mayores.
+- 🤝 **Gestión e Innovación:** Actualmente trabajando en la generación de alianzas estratégicas con empresas que apoyan la tecnología y la innovación.
+- 🎓 **Académico:** Por comenzar el desarrollo de mi tesis de grado en Sistemas.
+- 🎨 **Diseño y Consultoría:** Apoyo a nutricionistas independientes con servicios de diseño gráfico y comunicación visual.
+- ✍️ **Investigación:** Me interesa la alfabetización digital, especialmente el rol de la IA como facilitadora educativa para adultos mayores.
 
 ---
 
@@ -18,9 +19,17 @@ Soy una profesional apasionada por la intersección entre la tecnología y la co
 
 ### Lenguajes y Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend & Diseño
+### Base de Datos & ORM
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Frontend & Web
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
