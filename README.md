@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About me
-I am a professional passionate about the intersection of technology and human communication. I currently work as the **Internal Systems Coordinator** at the Faculty of Economic Sciences of the **Adventist University of the Plata**. I combine my technical background with communication skills to create digital solutions that not only work but also communicate effectively.
+I am a professional passionate about the intersection of technology and human communication. I combine my technical background with communication skills to create digital solutions that not only work but also communicate effectively.
 
 - 🔭 **Current Projects:** Developing a custom management system using **Python**.
 - 🤝 **Management and Innovation:** Currently working on building strategic alliances with companies that support technology and innovation.
