@@ -9,7 +9,6 @@ I am a professional passionate about the intersection of technology and human co
 
 - 🔭 **Current Projects:** Developing a custom management system using **Python**.
 - 🤝 **Management and Innovation:** Currently working on building strategic alliances with companies that support technology and innovation.
-- 🎓 **Academic:** About to begin developing my undergraduate thesis in Systems Engineering.
 - 🎨 **Design and Consulting:** Supporting independent nutritionists with graphic design and visual communication services.
 - ✍️ **Research:** I am interested in digital literacy, especially the role of AI as an educational facilitator for older adults.
 
